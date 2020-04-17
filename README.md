@@ -31,6 +31,7 @@ gensim==0.13.3
   You can run the main function to see the resluts and predict the essential proteins.
  
 # Citation
+Min Zeng, Min Li*, Fang-Xiang Wu, Yaohang Li, Yi Pan. DeepEP: a deep learning framework for identifying essential proteins. BMC Bioinformatics, 20 (16), 506, 2019. 
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
